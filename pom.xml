@@ -39,6 +39,6 @@
                 <version>3.4.0</version>
             </plugin>
         </plugins>
-        <finalName>myapp</finalName>
+        <finalName>javaee-pwa</finalName>
     </build>
 </project>
